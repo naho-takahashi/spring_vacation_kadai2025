@@ -8,4 +8,5 @@ Gitにてこのリポジトリを作成。
 index.htmlが完成。
 - 3月17日  
 topic.htmlが完成。  
-skill.htmlが完成。
+skill.htmlが完成。  
+index.htmlとtopic.htmlを更新。
