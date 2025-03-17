@@ -7,4 +7,5 @@ Gitにてこのリポジトリを作成。
 - 3月13日  
 index.htmlが完成。
 - 3月17日  
-topic.htmlが完成。
+topic.htmlが完成。  
+skill.htmlが完成。
