@@ -10,3 +10,6 @@ index.htmlが完成。
 topic.htmlが完成。  
 skill.htmlが完成。  
 index.htmlとtopic.htmlを更新。
+- 3月21日
+after.htmlを作成。
+index.htmlとtopic.htmlとskill.htmlを更新。
