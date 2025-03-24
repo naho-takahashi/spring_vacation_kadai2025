@@ -1,0 +1,45 @@
+@charset "utf-8";
+ul{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 0;
+    background-color: skyblue;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    background-color: greenyellow;
+    font-size: 200%;
+    font-family: 'Impact';
+    color: lightcoral;
+}
+
+li :hover{
+    text-decoration: underline;
+}
+
+main{
+    background-color: blue;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+.box{
+    background-color: white;
+}
+
+.box2{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
