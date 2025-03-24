@@ -15,3 +15,4 @@ after.htmlを作成。
 index.htmlとtopic.htmlとskill.htmlを更新。  
 - 3月25日  
 after.htmlを更新＆完成。  
+all-style.cssが完成。
